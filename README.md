@@ -1,6 +1,6 @@
 # LUCI Color Scheme
 
-[NetApp](https://www.netapp.com) created [LUCI](http://luci.netapp.com) as a "Library for User-Centered Interfaces". This is my adoption of LUCI's color theme for the macOS Terminal.app, VIM and more.
+[NetApp](https://www.netapp.com) created [LUCI](http://luci.netapp.com) as a "Library for User-Centered Interfaces". This is my adoption of LUCI's color theme for the macOS Terminal.app, VIM (coming soon) and more.
 
 ## ANSI to LUCI color mapping
 
